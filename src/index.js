@@ -7,10 +7,14 @@ import LoginForm from './login-form'
 import App from './app'
 
 if (module.hot) {
+  console.log('inside index js')
+
   module.hot.accept()
 }
 
 function FullApp() {
+  console.log('inside index js')
+
   const [user, setUser] = React.useState(null)
 
   const token = window.localStorage.getItem('token')
