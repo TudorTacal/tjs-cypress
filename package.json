@@ -72,7 +72,7 @@
     "jest": "^24.9.0",
     "jest-emotion": "^10.0.14",
     "jest-runner-eslint": "^0.7.4",
-    "jest-watch-select-projects": "^0.1.2",
+    "jest-watch-select-projects": "^2.0.0",
     "jest-watch-typeahead": "^0.4.0",
     "lint-staged": "^9.2.5",
     "npm-run-all": "^4.1.5",
